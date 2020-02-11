@@ -14,4 +14,4 @@ This is an example of a Backend NODE API built following the tutorial of Brad Tr
 
 ### Live Preview
 
-Visit (https://documenter.getpostman.com/view/8923145/SVtVVTzd?version=latest#08fbaf9e-8c86-4f00-a3e7-6fb5d37c2eee) for a live-preview of the documentation of the API.
+Visit (https://documenter.getpostman.com/view/2863352/SWTK4u6p?version=latest) for a live-preview of the documentation of the API.
